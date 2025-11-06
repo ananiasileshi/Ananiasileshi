@@ -32,6 +32,7 @@
 ![VSCode](https://img.shields.io/badge/Editor-VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode)
 ![Git](https://img.shields.io/badge/Tools-Git-F05032?style=for-the-badge&logo=git)
 ![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb)
 
 ---
 
