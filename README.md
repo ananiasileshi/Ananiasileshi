@@ -37,7 +37,6 @@
 
 ### 🔗 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-ananiasileshi-181717?style=for-the-badge&logo=github)](https://github.com/ananiasileshi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anania_Sileshi-blue?style=for-the-badge&logo=linkedin)](your-link)
 [![Telegram](https://img.shields.io/badge/Telegram-@ananiasileshi-0088CC?style=for-the-badge&logo=telegram)](https://t.me/ananiasileshi)
 
 ---
