@@ -1,287 +1,251 @@
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                         ANANIA SILESHI · GITHUB README                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=220&section=header&text=Anania%20Sileshi&fontSize=55&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Developer%20/%20Programmer&descSize=22&descAlignY=55&descAlign=50"/>
+<!-- ───────────────── STATIC HEADER ───────────────── -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00d4ff,50:7c3aed,100:0d1117&height=230&section=header&text=Anania%20Sileshi&fontSize=52&fontAlignY=32&desc=Developer%20%E2%80%A2%20Addis%20Ababa%2C%20Ethiopia%20%F0%9F%87%AA%F0%9F%87%B9&descSize=18&descAlignY=54&fontColor=ffffff&animation=fadeIn" alt="header" />
 
-<!-- TYPING SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%9A%80+Building+Things+That+Live+on+the+Web;%F0%9F%8E%AE+Games+%7C+Apps+%7C+Experiences;%F0%9F%92%A1+Clean+Code+%7C+Creative+Solutions+%7C+Constant+Growth" alt="Typing SVG" />
-</a>
-
-<!-- PROFILE VIEWS & FOLLOWERS -->
+<!-- ───────────────── TYPING SVG ───────────────── -->
 <br/>
-<img src="https://komarev.com/ghpvc/?username=ananiasileshi&style=for-the-badge&color=0d1117&labelColor=00d4ff&label=PROFILE+VIEWS" alt="Profile Views"/>
-&nbsp;
-<a href="https://github.com/ananiasileshi?tab=followers">
-  <img src="https://img.shields.io/github/followers/ananiasileshi?style=for-the-badge&color=0d1117&labelColor=7c3aed&label=FOLLOWERS&logo=github" alt="Followers"/>
-</a>
-&nbsp;
-<a href="https://github.com/ananiasileshi?tab=repositories">
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=0d1117&labelColor=00d4ff&label=REPOS&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fananiasileshi&logo=github" alt="Repos"/>
-</a>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=650&height=35&lines=Building+things+that+live+on+the+web+%F0%9F%8C%90;Games+%E2%80%A2+Apps+%E2%80%A2+Experiences+%F0%9F%8E%AE;Clean+Code+%26+Creative+Solutions+%E2%9C%A8;Full-Stack+Developer+from+Ethiopia+%F0%9F%87%AA%F0%9F%87%B9)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- ───────────────── BADGES ROW ───────────────── -->
+![Profile Views](https://komarev.com/ghpvc/?username=ananiasileshi&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
+&nbsp;&nbsp;
+![GitHub Followers](https://img.shields.io/github/followers/ananiasileshi?style=for-the-badge&color=00d4ff&labelColor=0d1117&logo=github&label=Followers)
+&nbsp;&nbsp;
+![GitHub Stars](https://img.shields.io/github/stars/ananiasileshi?style=for-the-badge&color=7c3aed&labelColor=0d1117&logo=github&label=Stars)
 
 </div>
 
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                              ABOUT ME                                      -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> **Tech Arsenal**
+<br/>
 
 <div align="center">
 
-### 🎯 Core Languages
-<table>
-<tr>
-<td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-  <br><strong>JavaScript</strong>
-  <br>
-  <img src="https://img.shields.io/badge/Expert-FFD700?style=flat-square" alt="Expert"/>
-</td>
-<td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-  <br><strong>TypeScript</strong>
-  <br>
-  <img src="https://img.shields.io/badge/Learning-00BFFF?style=flat-square" alt="Learning"/>
-</td>
-<td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" />
-  <br><strong>Python</strong>
-  <br>
-  <img src="https://img.shields.io/badge/Intermediate-00BFFF?style=flat-square" alt="Intermediate"/>
-</td>
-<td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-  <br><strong>PHP</strong>
-  <br>
-  <img src="https://img.shields.io/badge/Intermediate-00BFFF?style=flat-square" alt="Intermediate"/>
-</td>
-<td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-  <br><strong>HTML5</strong>
-  <br>
-  <img src="https://img.shields.io/badge/Expert-FFD700?style=flat-square" alt="Expert"/>
-</td>
-<td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-  <br><strong>CSS3</strong>
-  <br>
-  <img src="https://img.shields.io/badge/Expert-FFD700?style=flat-square" alt="Expert"/>
-</td>
-</tr>
-</table>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" width="30" /> &nbsp;About Me
 
-### ⚡ Frameworks & Runtime
-<table>
-<tr>
-<td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-  <br><strong>React</strong>
-</td>
-<td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-  <br><strong>Next.js</strong>
-</td>
-<td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-  <br><strong>Node.js</strong>
-</td>
-<td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-  <br><strong>Express.js</strong>
-</td>
-<td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-  <br><strong>Bootstrap</strong>
-</td>
-<td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-  <br><strong>Tailwind</strong>
-</td>
-</tr>
-</table>
+</div>
 
-### 🗄️ Databases
-<table>
-<tr>
-<td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-  <br><strong>MySQL</strong>
-</td>
-<td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-  <br><strong>MongoDB</strong>
-</td>
-<td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-  <br><strong>Firebase</strong>
-</td>
-</tr>
-</table>
+<p align="center">
+  <samp>
+    Hey there! 👋 I'm <strong>Anania Sileshi</strong> - a <strong>Developer</strong>
+     based in <strong>Addis Ababa, Ethiopia 🇪🇹</strong>.
+    I'm passionate about transforming ideas into interactive web applications, fun games, developer tools,
+    and digital experiences that people genuinely enjoy using.</em> - blending academic depth with
+    hands-on creative energy in everything I build.
+  </samp>
+</p>
 
-### 🛠️ Dev Tools
+<div align="left">
+
+- &nbsp;Currently working on **full-stack web projects & creative experiments**
+
+- &nbsp;Actively leveling up in **TypeScript, Next.js & System Design**
+
+- &nbsp;Clean code enthusiast & creative problem solver
+
+- &nbsp;Open to collaborations — always happy to connect and learn together
+
+- &nbsp;Fun fact: I believe code can be both **functional** *and* **beautiful**
+
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                            TECH STACK                                      -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 🛠️ &nbsp;Tech Stack & Tools
+
+<br/>
+
 <table>
-<tr>
-<td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-  <br><strong>Git</strong>
-</td>
-<td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-  <br><strong>GitHub</strong>
-</td>
-<td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-  <br><strong>VS Code</strong>
-</td>
-<td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-  <br><strong>Postman</strong>
-</td>
-<td align="center" width="110">
-  <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-  <br><strong>Figma</strong>
-</td>
-</tr>
+  <tr>
+    <td align="center" width="140"><strong>🌐 Web Core</strong></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express&perline=8" alt="Web Core" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140"><strong>🎨 Styling &<br/>Languages</strong></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,python,java,cs,cpp,php,dotnet&perline=8" alt="Styling & Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140"><strong>🗄️ Data &<br/>Dev Tools</strong></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,git,github,vscode,postman,figma&perline=8" alt="Data & Tools" />
+    </td>
+  </tr>
 </table>
 
 </div>
 
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **GitHub Analytics**
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                           GITHUB STATS                                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ananiasileshi&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" alt="Trophy"/>
+## 📊 &nbsp;GitHub Stats
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/ananiasileshi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ananiasileshi&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ananiasileshi&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9&ring_color=7c3aed&include_all_commits=true&count_private=true&custom_title=Anania's%20GitHub%20Stats" alt="GitHub Stats" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/ananiasileshi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananiasileshi&layout=compact&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananiasileshi&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=10&custom_title=Most%20Used%20Languages" alt="Top Languages" />
 </a>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ananiasileshi&theme=algolia&hide_border=true&background=0d1117&stroke=00d4ff&ring=7c3aed&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=8b949e" width="60%" alt="Streak"/>
+<a href="https://github.com/ananiasileshi">
+  <img width="62%" src="https://streak-stats.demolab.com/?user=ananiasileshi&hide_border=true&background=0d1117&ring=7c3aed&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=555555&stroke=1a1b27" alt="GitHub Streak" />
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ananiasileshi&bg_color=0d1117&color=00d4ff&line=7c3aed&point=00d4ff&area=true&area_color=7c3aed&hide_border=true&custom_title=📈%20Contribution%20Graph" width="95%" alt="Activity Graph"/>
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=ananiasileshi&bg_color=0d1117&color=00d4ff&line=7c3aed&point=00d4ff&area=true&area_color=7c3aed&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
 
 </div>
 
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
-## 🐍 **Contribution Snake**
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                         CONTRIBUTION SNAKE                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
+
+## 🐍 &nbsp;Contribution Snake
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ananiasileshi/ananiasileshi/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ananiasileshi/ananiasileshi/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ananiasileshi/ananiasileshi/output/github-snake-dark.svg" />
+  <img width="100%" alt="Snake animation" src="https://raw.githubusercontent.com/ananiasileshi/ananiasileshi/output/github-snake-dark.svg" />
 </picture>
 
 </div>
 
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
-## 🚀 **Featured Projects**
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                         FEATURED PROJECTS                                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
+
+## 🚀 &nbsp;Featured Projects
+
+<br/>
 
 <a href="https://github.com/ananiasileshi/CryptoPriceTracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ananiasileshi&repo=CryptoPriceTracker&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed" width="47%" alt="CryptoPriceTracker"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ananiasileshi&repo=CryptoPriceTracker&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9&description_lines_count=2" alt="CryptoPriceTracker" />
 </a>
-&nbsp;&nbsp;
 <a href="https://github.com/ananiasileshi/ChessGame">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ananiasileshi&repo=ChessGame&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed" width="47%" alt="ChessGame"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ananiasileshi&repo=ChessGame&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9&description_lines_count=2" alt="ChessGame" />
 </a>
-
-<br/><br/>
 
 <a href="https://github.com/ananiasileshi/AnaniaHotel">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ananiasileshi&repo=AnaniaHotel&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed" width="47%" alt="AnaniaHotel"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ananiasileshi&repo=AnaniaHotel&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9&description_lines_count=2" alt="AnaniaHotel" />
 </a>
-&nbsp;&nbsp;
-<a href="https://github.com/ananiasileshi/T2V">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ananiasileshi&repo=T2V&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed" width="47%" alt="T2V"/>
+<a href="https://github.com/ananiasileshi/ExpenseTracker">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ananiasileshi&repo=ExpenseTracker&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9&description_lines_count=2" alt="ExpenseTracker" />
 </a>
 
-<br/><br/>
+<a href="https://github.com/ananiasileshi/T2V">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ananiasileshi&repo=T2V&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9&description_lines_count=2" alt="T2V" />
+</a>
+<a href="https://github.com/ananiasileshi/PasswordGenerator">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ananiasileshi&repo=PasswordGenerator&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9&description_lines_count=2" alt="PasswordGenerator" />
+</a>
 
 <a href="https://github.com/ananiasileshi/SnakeGame">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ananiasileshi&repo=SnakeGame&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed" width="47%" alt="SnakeGame"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ananiasileshi&repo=SnakeGame&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9&description_lines_count=2" alt="SnakeGame" />
 </a>
-&nbsp;&nbsp;
-<a href="https://github.com/ananiasileshi/ludoGame">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ananiasileshi&repo=ludoGame&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed" width="47%" alt="ludoGame"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/ananiasileshi/ExpenseTracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ananiasileshi&repo=ExpenseTracker&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed" width="47%" alt="ExpenseTracker"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/ananiasileshi/PasswordGenerator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ananiasileshi&repo=PasswordGenerator&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed" width="47%" alt="PasswordGenerator"/>
-</a>
-
-<br/><br/>
-
 <a href="https://github.com/ananiasileshi/TicTacToe">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ananiasileshi&repo=TicTacToe&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed" width="47%" alt="TicTacToe"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ananiasileshi&repo=TicTacToe&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9&description_lines_count=2" alt="TicTacToe" />
 </a>
-&nbsp;&nbsp;
+
+<a href="https://github.com/ananiasileshi/ludoGame">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ananiasileshi&repo=ludoGame&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9&description_lines_count=2" alt="ludoGame" />
+</a>
 <a href="https://github.com/ananiasileshi/Tapswap">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ananiasileshi&repo=Tapswap&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed" width="47%" alt="Tapswap"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ananiasileshi&repo=Tapswap&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9&description_lines_count=2" alt="Tapswap" />
 </a>
+
+<br/>
+
+➡️ &nbsp;**[See all repositories →](https://github.com/ananiasileshi?tab=repositories)**
 
 </div>
 
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
-## 🌐 **Connect with Me**
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                          CONNECT WITH ME                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<a href="https://github.com/ananiasileshi" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-&nbsp;
-<a href="https://t.me/ananiasileshi" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/ananiasileshi" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="mailto:your.email@example.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+## 🤝 &nbsp;Let's Connect
 
-<br/><br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Dev Quote" width="70%"/>
-
-<br/><br/>
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 <br/>
-<em><b>I love connecting with people!</b> Feel free to say <b>hi!</b></em>
+
+[![GitHub](https://img.shields.io/badge/GitHub-ananiasileshi-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ananiasileshi)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ananiasileshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ananiasileshi)
+&nbsp;
+[![Telegram](https://img.shields.io/badge/Telegram-ananiasileshi-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ananiasileshi)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anania@example.com)
 
 </div>
 
-<!-- ANIMATED FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:00d4ff,100:0d1117&height=120&section=footer"/>
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                              FOOTER                                        -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Thanks%20for%20visiting!-🚀-7c3aed?style=for-the-badge&labelColor=0d1117" alt="Thanks" />
+
+<samp><strong>If you find something interesting, don't forget to ⭐ the repo!</strong></samp>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:7c3aed,100:00d4ff&height=120&section=footer" width="100%" alt="footer" />
+
+</div>
