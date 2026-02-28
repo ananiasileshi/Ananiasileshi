@@ -11,7 +11,7 @@
 <!-- ───────────────── TYPING SVG ───────────────── -->
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=650&height=35&lines=Building+things+that+live+on+the+web+%F0%9F%8C%90;Games+%E2%80%A2+Apps+%E2%80%A2+Experiences+%F0%9F%8E%AE;Clean+Code+%26+Creative+Solutions+%E2%9C%A8;Full-Stack+Developer+from+Ethiopia+%F0%9F%87%AA%F0%9F%87%B9)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=650&height=35&lines=Building+things+that+live+on+the+web+%F0%9F%8C%90;Games+%E2%80%A2+Apps+%E2%80%A2+Experiences+%F0%9F%8E%AE;Clean+Code+%26+Creative+Solutions+%E2%9C%A8;Developer+from+Ethiopia+%F0%9F%87%AA%F0%9F%87%B9)](https://git.io/typing-svg)
 
 <br/>
 
