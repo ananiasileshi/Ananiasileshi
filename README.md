@@ -12,7 +12,7 @@
 &nbsp;
 [![Telegram](https://img.shields.io/badge/Telegram-Message-26A5E4?style=flat-square&logo=telegram)](https://t.me/ananiasileshi)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail)](mailto:an4ni4@egmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail)](mailto:an4ni4@gmail.com)
 
 </div>
 
