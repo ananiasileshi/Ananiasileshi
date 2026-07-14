@@ -23,7 +23,7 @@
 I build full-stack web applications, developer tools, and interactive experiences.  
 Currently deepening expertise in **TypeScript**, **Next.js**, and **System Design**.
 
-🌱 Always open to collaborations — feel free to reach out.
+🌱 Always open to collaborations - feel free to reach out.
 
 <br/>
 
