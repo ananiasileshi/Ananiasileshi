@@ -12,7 +12,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-ananiasileshi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ananiasileshi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ananiasileshi)
 [![Telegram](https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ananiasileshi)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:an4ni4@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@anani.me)
 
 </div>
 
